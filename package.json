@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_dockerized",
+  "version": "0.0.1",
+  "description": "0.0.1 version is a beta test",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
